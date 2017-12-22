@@ -1,5 +1,7 @@
 # MeepMeep Admin UI Project
 
+[![Join the chat at https://gitter.im/MeepMeep_CoreUI/Lobby](https://badges.gitter.im/MeepMeep_CoreUI/Lobby.svg)](https://gitter.im/MeepMeep_CoreUI/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This project is intended to used with [MeepMeep](https://github.com/deathbybandaid/MeepMeep).
 
 
